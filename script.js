@@ -8,5 +8,8 @@ name=['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame','Akosua', 'A
 prompt("")
 
 function AkanName(name) {
-   return name;
+   if (name) {
+
+   }
 }
+
