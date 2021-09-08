@@ -1,5 +1,5 @@
 @import url("bootstarp-min\ .css");
-image{background-image: url("https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHBhcGVyJTIwYmFja2dyb3VuZHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"); 
+image{ 
   background-color: #cccccc; 
   height: 1500px; 
   background-position: center; 
@@ -7,8 +7,9 @@ image{background-image: url("https://images.unsplash.com/photo-1432821596592-e2c
   background-size: cover; 
 }
 body{
-    background-image: url("https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHBhcGVyJTIwYmFja2dyb3VuZHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60");
+    background-image: url("https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHBhcGVyJTIwYmFja2dyb3VuZHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"); 
     text-align: center;
     font-style: inherit;
+    font-size: large ;
 }
 
