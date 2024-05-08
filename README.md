@@ -1,6 +1,8 @@
 # AKAN NAMING 
 A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name, 2024.05.8. 
-#### By **{friendlyneighborhooddeveloper}**
+#### By 
+**friendlyneighborhooddeveloper*
+**martin kecho*
 
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
